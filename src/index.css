@@ -31,7 +31,7 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 90vh;
+  height: 80vh;
 }
 
 @media (max-width: 600px) {

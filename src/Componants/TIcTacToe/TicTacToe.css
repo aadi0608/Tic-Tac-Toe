@@ -23,8 +23,8 @@
     background: #1f351f;
     font-size: 26px;
     color: #26ffc2;
-    margin-top: 10px;
-    margin-bottom: 80px;
+    margin-top: 35px;
+    /* margin-bottom: 80px; */
     }
     .Boxes{
         display:  flex;
@@ -34,12 +34,13 @@
         border: 4px solid  #000000;
         box-sizing: border-box;
         border-radius: 10px;
-        margin: auto;
+        /* margin: auto; */
         cursor: pointer;
     }
    .board{
-     height: 600px;
+     /* height: 100vh; */
      width: 400px;
+     /* margin-top: 65px; */
      display: flex;
      margin: auto;
      
